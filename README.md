@@ -1,9 +1,8 @@
-### Hi there, I'm Samwit Adhikary 👋
+### J.A.R.V.I.S 👋
 
-## I'm a Student, Developer, and Fast Learner!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and sing.
+## Working!
+- It is a basic level project on artificial intelligence which makes you understand how the AI and Machine Learing works. J.R.V.I.S is the AI assistant from the blocbuster movie Iron Man. 
+- Hope you will like my work.
 
 ### Connect with me:
 
