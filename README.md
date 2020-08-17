@@ -1,7 +1,7 @@
 ### J.A.R.V.I.S 👋
 
 ## Working!
-- It is a basic level project on artificial intelligence which makes you understand how the AI and Machine Learing works. J.A.R.V.I.S is the AI assistant from the blocbuster movie Iron Man. 
+- It is a basic level project on artificial intelligence which makes you understand how the AI and Machine Learing works. J.A.R.V.I.S is the AI assistant from the blockbuster movie Iron Man. 
 - Hope you will like my work.
 
 ### Connect with me:
